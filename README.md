@@ -2,4 +2,3 @@
 Indonesian Translation for OSRS.
 
 master.csv
-id.csv
